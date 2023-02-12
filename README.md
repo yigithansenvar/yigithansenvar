@@ -67,7 +67,8 @@
 <br/>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-
+  
+<p align="center">
     <a href="mailto:yigithansenvar57@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
   
