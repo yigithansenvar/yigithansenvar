@@ -2,7 +2,7 @@ Hi There 👋 I am Yigithan Senvar
 
 🎓   Electrical and Electronics Engineer (BSc)
 💼   Working as Embedded Software Engineer at Neta Electronics.
-⚡   Learning more about Advanced Embedded Software
+⚡    Learning more about Advanced Embedded Software
 
 
 🏆  Awards
