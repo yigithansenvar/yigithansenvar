@@ -28,7 +28,6 @@
 
 - 🛰️ &nbsp; 2nd Place - Space Hackathon (Plan S '22) <a/>
 - 🛰️ &nbsp; 6th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'21) <a/>
-- 🛰️ &nbsp; NASA Satellite Design Competition  <a href="https://cansatcompetition.com" > (CANSAT'21) <a/>
 - 🛰️ &nbsp; 15th Place - International Satellite Design Competition <a href="https://teknofest.org/en/competitions/competition/28"> (TEKNOFEST'20) <a/>
 
 
